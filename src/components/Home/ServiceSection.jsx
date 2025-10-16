@@ -21,8 +21,8 @@ const services = [
     path: "/services/service",
   },
   {
-    title: "Bumper Repair",
-    desc: `Repair cracked or scuffed bumpers to a smooth, like-new finish.`,
+    title: "Body work",
+    desc: `repairing, restoring, or reshaping a vehicle’s exterior panels to fix dents, scratches, or collision damage.`,
     image: "/carmechanic.avif",
     path: "/services/mot",
   },
